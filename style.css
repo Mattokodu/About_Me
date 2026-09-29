@@ -1,0 +1,10 @@
+* {
+    background-color: rgb(157,46,157);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+th, td {
+  border: 1px solid rgb(87, 20, 255);
+  text-align: center;
+  padding: 6px;
+}
